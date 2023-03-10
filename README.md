@@ -1,5 +1,2 @@
-# pratoFiorito
-
-IT Ciao! Questo è il mio primo progetto in assoluto realizzato per il mio primo esame di programmazione, esattamente in Python!
-
-EN Hi! This is my first project ever that I realized for my first programming exam which was actually in Python!
+Il seguente progetto è stato realizzato come elaborato finale del corso base in Fondamenti di informatica 1 erogato al primo anno della laurea triennale in ingegneria informatica all'Università della Calabria.
+E' stato realizzato un prato fiorito in linguaggio Python
